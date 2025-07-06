@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1 class="mb-3">{{ job.title }}</h1>
+<h5>{{ job.company }} – {{ job.location }}</h5>
+<hr>
+<p>{{ job.description }}</p>
+{% if ranking %}
+<p><strong>Score:</strong> {{ ranking.overall_score }}</p>
+{% endif %}
+<a href="/jobs" class="btn btn-secondary">Back to Jobs</a>
+{% endblock %} 

@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "/home/mxm6982/miniconda3/envs/job_search_env/bin/python"
+    }
+} 

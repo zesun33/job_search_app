@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block content %}
+    <div class="container mt-5">
+        <h1>Job Listings</h1>
+        <p>Find your dream job in tech. Search through our latest listings.</p>
+        
+        <!-- Search Form -->
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">Search Jobs</h5>
+                <form action="/jobs" method="GET" class="row g-3">
+                    <div class="col-md-6">
+                        <input type="text" name="query" class="form-control" placeholder="Enter job title, company, or keywords" value="{{ request.args.get('query', '') }}">
+                    </div>
+                    <div class="col-md-3">
+                        <input type="text" name="location" class="form-control" placeholder="Location" value="{{ request.args.get('location', '') }}">
+                    </div>
+                    <div class="col-md-3">
+                        <button type="submit" class="btn btn-primary w-100">Search Jobs</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        
+        <!-- Placeholder for job listings -->
+        <div id="job-listings">
+            {% if jobs %}
+                {% for job in jobs %}
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ job.title }}</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">{{ job.company }} - {{ job.location }}</h6>
+                            <p class="card-text">{{ job.description[:200] }}...</p>
+                            <a href="{{ job.url }}" class="card-link" target="_blank">Apply Now</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <p class="text-muted">No job listings available at the moment. Try searching with different keywords.</p>
+            {% endif %}
+        </div>
+    </div>
+{% endblock %} 

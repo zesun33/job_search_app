@@ -1,0 +1,286 @@
+{
+  "database": {
+    "connection": {
+      "success": true,
+      "message": "Database connection successful"
+    },
+    "schema": {
+      "success": true,
+      "message": "Database schema created successfully"
+    },
+    "user_creation": {
+      "success": true,
+      "message": "Test user created with ID: 1"
+    },
+    "job_creation": {
+      "success": true,
+      "message": "Test job created with ID: 1"
+    }
+  },
+  "scrapers": {
+    "github": {
+      "success": true,
+      "repositories_configured": 5,
+      "details": {
+        "daily_h1b": {
+          "name": "jobright-ai/Daily-H1B-Jobs-In-Tech",
+          "description": "Daily H1B sponsorship jobs in tech",
+          "last_updated": "2025-07-06T11:03:11Z",
+          "stars": 213,
+          "accessible": true
+        },
+        "new_grad_2025": {
+          "name": "jobright-ai/2025-Software-Engineer-New-Grad",
+          "description": "2025 Software Engineer New Grad positions",
+          "last_updated": "2025-07-06T20:14:54Z",
+          "stars": 206,
+          "accessible": true
+        },
+        "internship_2025": {
+          "name": "jobright-ai/2025-Engineer-Internship",
+          "description": "2025 Engineering Internship positions",
+          "last_updated": "2025-07-06T20:42:22Z",
+          "stars": 12,
+          "accessible": true
+        },
+        "simplify_internships": {
+          "name": "SimplifyJobs/Summer2026-Internships",
+          "description": "Summer 2026 Internship positions",
+          "last_updated": "2025-07-06T20:36:26Z",
+          "stars": 38690,
+          "accessible": true
+        },
+        "simplify_new_grad": {
+          "name": "SimplifyJobs/New-Grad-Positions",
+          "description": "New Grad positions collection",
+          "last_updated": "2025-07-06T20:45:24Z",
+          "stars": 13519,
+          "accessible": true
+        }
+      }
+    },
+    "intern_list": {
+      "success": true,
+      "details": {
+        "accessible": true,
+        "categories_tested": [
+          {
+            "category": "engineering",
+            "jobs_found": 0,
+            "success": true
+          },
+          {
+            "category": "software",
+            "jobs_found": 0,
+            "success": true
+          }
+        ],
+        "total_jobs_found": 0,
+        "errors": []
+      }
+    },
+    "ats": {
+      "workday": {
+        "success": true,
+        "message": "workday scraper created successfully"
+      },
+      "greenhouse": {
+        "success": true,
+        "message": "greenhouse scraper created successfully"
+      },
+      "lever": {
+        "success": true,
+        "message": "lever scraper created successfully"
+      }
+    },
+    "api_clients": {
+      "success": false,
+      "details": {}
+    },
+    "coordinator": {
+      "success": true,
+      "details": {
+        "github_repositories": {
+          "daily_h1b": {
+            "name": "jobright-ai/Daily-H1B-Jobs-In-Tech",
+            "description": "Daily H1B sponsorship jobs in tech",
+            "last_updated": "2025-07-06T11:03:11Z",
+            "stars": 213,
+            "accessible": true
+          },
+          "new_grad_2025": {
+            "name": "jobright-ai/2025-Software-Engineer-New-Grad",
+            "description": "2025 Software Engineer New Grad positions",
+            "last_updated": "2025-07-06T20:14:54Z",
+            "stars": 206,
+            "accessible": true
+          },
+          "internship_2025": {
+            "name": "jobright-ai/2025-Engineer-Internship",
+            "description": "2025 Engineering Internship positions",
+            "last_updated": "2025-07-06T20:42:22Z",
+            "stars": 12,
+            "accessible": true
+          },
+          "simplify_internships": {
+            "name": "SimplifyJobs/Summer2026-Internships",
+            "description": "Summer 2026 Internship positions",
+            "last_updated": "2025-07-06T20:36:26Z",
+            "stars": 38690,
+            "accessible": true
+          },
+          "simplify_new_grad": {
+            "name": "SimplifyJobs/New-Grad-Positions",
+            "description": "New Grad positions collection",
+            "last_updated": "2025-07-06T20:45:24Z",
+            "stars": 13519,
+            "accessible": true
+          }
+        },
+        "external_websites": {
+          "intern_list": {
+            "accessible": true,
+            "categories_tested": [
+              {
+                "category": "engineering",
+                "jobs_found": 0,
+                "success": true
+              },
+              {
+                "category": "software",
+                "jobs_found": 0,
+                "success": true
+              }
+            ],
+            "total_jobs_found": 0,
+            "errors": []
+          }
+        },
+        "api_sources": {},
+        "company_websites": {
+          "google": {
+            "name": "Google",
+            "accessible": true,
+            "ats_type": "custom"
+          },
+          "apple": {
+            "name": "Apple",
+            "accessible": true,
+            "ats_type": "custom"
+          },
+          "amazon": {
+            "name": "Amazon",
+            "accessible": true,
+            "ats_type": "custom"
+          },
+          "meta": {
+            "name": "Meta",
+            "accessible": true,
+            "ats_type": "custom"
+          },
+          "microsoft": {
+            "name": "Microsoft",
+            "accessible": true,
+            "ats_type": "custom"
+          }
+        }
+      }
+    }
+  },
+  "ranking": {
+    "internship_preferences": {
+      "success": true,
+      "total_jobs_ranked": 3,
+      "highest_score": 0.5712051282051283,
+      "highest_scoring_job": "Python Software Engineer Intern",
+      "score_breakdown": {
+        "keyword_score": 0.7748717948717949,
+        "location_score": 0.0,
+        "salary_score": 0.3,
+        "experience_score": 0.9
+      }
+    },
+    "fulltime_preferences": {
+      "success": true,
+      "total_jobs_ranked": 3,
+      "highest_score": 0.616864406779661,
+      "highest_scoring_job": "Remote Frontend Developer"
+    }
+  },
+  "notifications": {
+    "email_template": {
+      "success": true,
+      "subject_length": 34,
+      "body_length": 268
+    },
+    "configuration": {
+      "success": true,
+      "email_backend": "smtp",
+      "smtp_configured": false,
+      "sendgrid_configured": false,
+      "twilio_configured": false
+    },
+    "filtering": {
+      "success": true,
+      "jobs_above_threshold": 1,
+      "threshold_used": 0.6
+    }
+  },
+  "web_interface": {
+    "routes": {
+      "/": {
+        "success": true,
+        "status_code": 200
+      },
+      "/jobs": {
+        "success": true,
+        "status_code": 200
+      },
+      "/preferences": {
+        "success": true,
+        "status_code": 200
+      },
+      "/dashboard": {
+        "success": true,
+        "status_code": 200
+      }
+    },
+    "api": {
+      "/api/jobs": {
+        "success": true,
+        "status_code": 404
+      },
+      "/api/stats": {
+        "success": true,
+        "status_code": 404
+      }
+    },
+    "overall": {
+      "success": true,
+      "total_routes_tested": 6
+    }
+  },
+  "integration": {
+    "job_acquisition": {
+      "success": true,
+      "total_jobs_found": 0,
+      "total_jobs_saved": 0,
+      "sources_tested": 4
+    },
+    "ranking": {
+      "success": true,
+      "message": "No jobs to rank - job acquisition needed first"
+    },
+    "notifications": {
+      "success": true,
+      "message": "No high-score jobs for notifications"
+    },
+    "overall": {
+      "success": true,
+      "message": "End-to-end integration test completed"
+    }
+  },
+  "overall_success": true,
+  "test_duration": 85.44321846961975,
+  "timestamp": "2025-07-06T16:51:44.223810"
+}
