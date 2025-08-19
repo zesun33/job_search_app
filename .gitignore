@@ -20,6 +20,7 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -81,28 +82,16 @@ profile_default/
 ipython_config.py
 
 # pyenv
-#   For a library or package, you might want to ignore these files since the code is
-#   intended to run in multiple environments; otherwise, check them in:
-# .python-version
+.python-version
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies last longer
-#   than useful, please consider ignore Pipfile.lock.
-# Pipfile.lock
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
 
-# poetry
-#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
-#   This is especially recommended for binary packages to ensure reproducibility, and is more
-#   commonly ignored for libraries.
-#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file
-# poetry.lock
-
-# pdm
-#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
-# pdm.lock
-
-# PEP 582; used by pyflow
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
 # Celery stuff
@@ -123,7 +112,7 @@ venv.bak/
 
 # Spyder project settings
 .spyderproject
-.spyderworkspace
+.spyproject
 
 # Rope project settings
 .ropeproject
@@ -139,18 +128,53 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# pytype static analyzer
-.pytype/
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+data/*.sqlite
+data/*.sqlite3
 
-# Cython debug symbols
-cython_debug/
+# Job search app specific
+data/jobsearch*.db
+data/jobsearch_test.db
 
-# Conda
-.conda
-condarc
-/conda-meta
-/conda-bld
-/pkgs
-/envs
+# Logs
+logs/*.log
+*.log
 
-# Additional rules can be added here 
+# Test cache
+.pytest_cache/
+.coverage
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+data/raw/
+data/processed/
+
+# Sensitive information
+.env
+config/secrets.py
+*.key
+*.pem
+*.p12 
