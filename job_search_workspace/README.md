@@ -28,7 +28,10 @@ job_search_workspace/
 │   ├── intel_return_strategy.md        # Intel return opportunity strategy
 │   └── globalfoundries_job_search.md   # GlobalFoundries and semiconductor companies
 ├── resources/                          # Job search resources and tools
-├── applications/                       # Application materials and templates (8 specialized templates)
+├── applications/                       # Application materials, CVs, templates, generators
+│   ├── cv_variants/                    # 9 Markdown CV variants converted from LaTeX PDFs
+│   ├── generator/                      # Tools/scripts for cover letter extraction
+│   └── source_cover_letters/           # Source cover letters (TXT/DOCX)
 └── tracking/                           # Application tracking and follow-up
 ```
 
@@ -172,6 +175,18 @@ job_search_workspace/
 2. Identify skill gaps for target positions
 3. Plan skill enhancement activities
 4. Update profile as skills develop
+
+---
+
+## 🗂️ **Applications Area Details**
+
+- **`applications/cv_variants/`**: Contains 9 specialized CV variants in Markdown (`Zesun_CV_august25_*`) converted from LaTeX-generated PDFs for easy LLM parsing and in-chat reviewing.
+- **`applications/generator/`**: Includes `extract_cover_letters.py` and `requirements.txt` for extracting and structuring cover letters from source documents.
+- **`applications/source_cover_letters/`**: Canonical raw cover letters (TXT/DOCX) that feed templates and generators.
+
+Usage tips:
+- Open any file under `applications/cv_variants/` in the editor and ask the assistant to summarize, compare, or tailor content for a job description.
+- Run the generator scripts in `applications/generator/` within a virtual environment to keep dependencies isolated.
 
 ---
 

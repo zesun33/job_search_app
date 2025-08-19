@@ -45,11 +45,17 @@ job_search_app/
 
 ## 📚 **Key Documents**
 
-- **`job_search_workspace/README.md`**: Main workspace overview and quick start
-- **`job_search_workspace/DOCUMENTATION.md`**: Comprehensive usage guide
-- **`job_search_workspace/SETUP_PROMPT.md`**: Setup instructions for new devices
-- **`job_search_workspace/profiles/zesun_skills_profile.md`**: Comprehensive skills profile
-- **`job_search_workspace/strategies/job_matching_matrix.md`**: Job matching strategy
+- **`job_search_workspace/README.md`**: Workspace overview and quick start
+- **`job_search_workspace/CHANGELOG.md`**: Update history
+- **Applications area**:
+  - `job_search_workspace/applications/cv_variants/` — 9 Markdown CV variants for in-chat parsing
+  - `job_search_workspace/applications/generator/` — cover letter extraction tooling
+  - `job_search_workspace/applications/source_cover_letters/` — source letters (TXT/DOCX)
+- **Profiles**:
+  - `job_search_workspace/profiles/zesun_skills_profile.md`
+  - plus specialized profiles under `profiles/`
+- **Strategies**:
+  - `job_search_workspace/strategies/job_matching_matrix.md`
 
 ## 🎨 **Customization**
 

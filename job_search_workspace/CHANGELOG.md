@@ -92,6 +92,31 @@ This document summarizes the comprehensive updates made to the job search worksp
 - **Industry Applications**: Practical applications of research
 - **Career Targeting**: Specialized job category matching
 
+---
+
+## 🔄 Subsequent Updates (Post v2.0)
+
+### Added
+- Converted 9 LaTeX CV PDFs into Markdown and placed under `applications/cv_variants/`:
+  - `Zesun_CV_august25_academia.md`
+  - `Zesun_CV_august25_circuits.md`
+  - `Zesun_CV_august25_cktml.md`
+  - `Zesun_CV_august25_device.md`
+  - `Zesun_CV_august25_deviceckt.md`
+  - `Zesun_CV_august25_ml.md`
+  - `Zesun_CV_august25_mlsemi.md`
+  - `Zesun_CV_august25_neuro.md`
+  - `Zesun_CV_august25_process.md`
+
+### Organized
+- Created `applications/cv_variants/` to logically group Markdown CV variants.
+
+### Documented
+- Updated `job_search_workspace/README.md` to reflect:
+  - `applications/cv_variants/`
+  - `applications/generator/`
+  - `applications/source_cover_letters/`
+
 ### **From Research Projects**
 - **Astromorphic Transformers**: World's first comprehensive research
 - **Neuromorphic Cybersecurity**: ICONS 2025 acceptance
