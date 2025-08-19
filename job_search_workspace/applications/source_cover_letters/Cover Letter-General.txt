@@ -1,0 +1,25 @@
+Md Zesun Ahmed Mia
+State College, PA, USA
+zesun.ahmed@psu.edu
+814-280-7244
+Date: December 7, 2024
+
+
+
+Dear Hiring Committee,
+
+I am excited to apply for [Position Title] at [Company/Institution Name]. As a PhD candidate in Electrical Engineering at Pennsylvania State University, my research focuses on machine learning, natural language processing (NLP), computer vision, and large language models (LLMs). I combine innovative algorithm design with a strong foundation in hardware-software co-design to develop efficient, scalable AI systems.
+
+My work includes optimizing transformer-based architectures for tasks like long-context handling and continual learning, with applications in text summarization, sentiment analysis, and vision tasks like object detection and image segmentation. Leveraging frameworks such as BERT, GPT, and Vision Transformers, I have developed solutions that balance performance and computational efficiency.
+
+In addition to software expertise, I bring experience in hardware optimization, including neuromorphic computing and advanced memory technologies, enabling energy-efficient AI applications. My technical skills encompass Python, MATLAB, and C/C++, alongside deployment tools like Docker and TensorFlow Serving for scalable production models.
+
+I am eager to contribute my expertise to your team , aligning with your mission to advance AI and machine learning. I look forward to the opportunity to collaborate and make a meaningful impact.
+
+
+
+Sincerely,
+Md Zesun Ahmed Mia
+PhD Candidate,
+School of Electrical Engineering and Computer Science,
+Pennsylvania State University, USA

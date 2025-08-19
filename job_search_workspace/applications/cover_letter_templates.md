@@ -313,7 +313,7 @@ My doctoral research focuses on spintronic memory arrays and emerging memory tec
 
 ### **Body Paragraph 2 - Advanced Characterization**
 ```
-My technical expertise encompasses the complete memory device development cycle, from nanofabrication to comprehensive characterization and reliability assessment. I have extensive experience with advanced characterization techniques including magnetoresistance testing, endurance evaluation, retention analysis, and failure mode analysis. My work with FeFET devices includes multi-level conductance state development for neuromorphic applications, PUND characterization protocols, and long-term reliability assessment. This comprehensive approach ensures robust memory device development from concept to production readiness.
+My technical expertise encompasses the complete memory device development cycle, from nanofabrication to comprehensive characterization and reliability assessment. I have extensive experience with advanced characterization techniques including magnetoresistance testing, endurance evaluation, retention analysis, and failure mode analysis. My work with FeFET devices includes multi-level conductance state development for neuromorphic applications and long-term reliability assessment. This comprehensive approach ensures robust memory device development from concept to production readiness.
 ```
 
 ### **Body Paragraph 3 - Industry Application**

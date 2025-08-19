@@ -21,7 +21,6 @@
 ### **Ferroelectric Device Development** ⚡
 - **FeFET Synaptic Devices**: Multi-level conductance states for neuromorphic applications
 - **Polarization Switching**: Coercive field optimization and interface engineering
-- **PUND Characterization**: Comprehensive ferroelectric device testing protocols
 - **Endurance & Retention**: Long-term reliability assessment for memory applications
 - **Device-Circuit Integration**: Co-design approaches for system-level optimization
 

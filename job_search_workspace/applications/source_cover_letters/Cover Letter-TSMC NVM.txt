@@ -1,0 +1,23 @@
+Hiring Manager
+TSMC Technology Inc.
+
+
+Dear Hiring Manager,
+
+I am excited to apply for the Summer 2025 Emerging Memory Technology Intern (6462) position at TSMC. With my PhD research in Electrical Engineering at Pennsylvania State University, I bring extensive experience in 3D integration, semiconductor process development, and memory technology, and I am eager to contribute to TSMC's cutting-edge advancements.
+
+In my research, I have focused on 3D integration technologies, including through-silicon vias (TSVs) and advanced interconnect techniques, to optimize device performance and efficiency. My work has included designing and developing processes to address challenges in thermal management, signal integrity, and scaling for next-generation memory devices. Additionally, I have hands-on expertise in material processing techniques such as CVD, PVD, and lithography, which are critical for developing high-performance devices with complex architectures.
+
+I have actively contributed to integrating novel materials into semiconductor devices to enhance reliability and scalability while addressing challenges like heat dissipation and process variability. My practical skills are complemented by a strong foundation in process optimization, enabling me to design and execute experiments that drive innovation in memory technology.
+
+The opportunity to contribute to TSMC’s efforts in 3D integration and thermal management aligns closely with my research focus and technical expertise. My ability to collaborate effectively within multidisciplinary teams and my passion for solving complex engineering challenges position me to make meaningful contributions to your Memory Technology team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experiences align with TSMC’s goals in shaping the future of semiconductor memory technologies.
+
+
+
+Sincerely,
+Md Zesun Ahmed Mia
+PhD Candidate,
+School of Electrical Engineering and Computer Science,
+Pennsylvania State University, USA

@@ -1,0 +1,33 @@
+Md Zesun Ahmed Mia
+State College, PA, USA
+zesun.ahmed@psu.edu
+814-280-7244
+Date: October 29, 2024
+
+
+
+Hiring Team
+
+Apple, AIML Research
+
+USA
+
+
+
+Dear Apple ML Research Team,
+
+I am excited to apply for the PhD Research Internship at Apple within the Artificial Intelligence and Machine Learning (AIML) organization. As a PhD candidate in Electrical Engineering at Pennsylvania State University, my research in machine learning, large language models (LLMs), and neuromorphic computing aligns closely with Apple’s commitment to advancing innovative, privacy-first technologies in artificial intelligence.
+
+Throughout my academic journey, I have developed expertise in LLMs and bio-inspired architecture, focusing on models that prioritize robustness and efficiency. My work on the Recurrent Memory Augmented Astromorphic Transformer (RMAAT), which incorporates neuron-astrocyte interactions for improved long-context handling, exemplifies my focus on memory-augmented and bio-inspired architecture for complex sequential tasks. Additionally, I have optimized Spiking Neural Networks (SNNs) for continual learning on neuromorphic hardware, which contributes to low-energy machine learning applications—a priority in developing sustainable AI solutions.
+
+I also have substantial experience in Python, MATLAB, and C/C++, which I’ve applied in building computational models and conducting device-level simulation and characterization. My technical skills are complemented by a strong publication record and hands-on expertise with hardware-software co-design, positioning me to make meaningful contributions to Apple’s ML research initiatives, particularly in probabilistic modeling, LLMs, and decision-making applications.
+
+Apple’s commitment to integrating AI into everyday experiences while preserving user privacy deeply resonates with my professional goals. I am excited about the opportunity to bring my technical expertise, creativity, and passion for discovery to Apple’s AIML team and to contribute to pioneering research that will enhance the lives of millions.
+
+Thank you for considering my application. I look forward to the opportunity to collaborate with Apple’s research team and contribute to the next generation of AI advancements.
+
+Sincerely,
+Md Zesun Ahmed Mia
+PhD Candidate,
+School of Electrical Engineering and Computer Science,
+Pennsylvania State University, USA

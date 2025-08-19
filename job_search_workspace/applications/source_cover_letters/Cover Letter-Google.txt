@@ -1,0 +1,26 @@
+Md Zesun Ahmed Mia
+State College, PA, USA
+zesun.ahmed@psu.edu
+814-280-7244
+Date: October 3, 2024
+
+Hiring Team
+Google, United States
+
+Dear Hiring Committee,
+
+I am excited to apply for the Research Intern, PhD, Summer 2025 position at Google. My current research as a PhD candidate in Electrical Engineering at Pennsylvania State University, coupled with my hands-on experience in machine learning, neuromorphic computing, and deep learning architectures, positions me well to contribute to Google’s innovative research projects.
+
+Throughout my academic journey, I have gained extensive experience in computational neuroscience, neuromorphic frameworks, and memory-augmented architectures. I developed a Recurrent Memory Augmented Astromorphic Transformer (RMAAT) designed to leverage both short-term and long-term plasticity, achieving groundbreaking results in sequential processing tasks. I have also worked on characterizing ferromagnetic material-based Hallbar devices, applying these to ultra-low power machine learning tasks through algorithm-device-system level co-design.
+
+In addition to my academic research, I have substantial experience in software engineering and data science, particularly in Python, MATLAB, and C/C++. I have applied my expertise in programming to build robust computational models, making contributions to published research in major conferences and journals. This blend of research and technical skills makes me confident in my ability to make meaningful contributions to Google’s research initiatives, particularly in artificial intelligence, machine perception, and natural language understanding.
+
+Google’s commitment to impactful research that shapes everyday technology resonates deeply with my professional goals. I am eager to bring my technical expertise, creativity, and passion for discovery to your research team, and I am excited about the opportunity to contribute to groundbreaking projects that will affect billions of users globally.
+
+Thank you for considering my application. I look forward to the opportunity to collaborate with Google’s research teams and further develop my skills through this exciting internship.
+
+Sincerely,
+Md Zesun Ahmed Mia
+PhD Candidate,
+School of Electrical Engineering and Computer Science,
+Pennsylvania State University, USA
