@@ -1,31 +1,51 @@
 # Zesun Ahmed Mia - Comprehensive Skills Profile
 
 ## 🎯 **Professional Summary**
-**PhD Candidate in Electrical Engineering** at Pennsylvania State University  
-**Ex-Intel Graduate Technical Intern** (05/2025 - 07/2025)  
-**Specialization**: Neuromorphic Computing, Machine Learning Hardware, Emerging Semiconductor Devices
+**PhD Candidate in Electrical Engineering** at Pennsylvania State University (Expected: 08/2027)  
+**CGPA**: 4.00/4.00 (Post-Comprehensive)  
+**Ex-Intel Graduate Technical Intern** (05/2025 - 07/2025) - Thin Film Process Development  
+**Advisor**: Dr. Abhronil Sengupta, Neuromorphic Computing Lab  
+**Specialization**: Neuromorphic Computing, Machine Learning Hardware, Emerging Semiconductor Devices, Process Integration
+
+## 🏆 **Recent Achievements & Recognition**
+- **Harry G. Miller Fellowship in Engineering** (2025)
+- **The Wormley Family Graduate Fellowship** (2025)
+- **Arthur Waynick Graduate Scholarship** (2024)
+- **IEEE TCDS Publication** (2025) - Astromorphic Transformers
+- **Intel Internship Completion** (2025) - Advanced technology node development
+- **ICONS 2025 Acceptance** - Neuromorphic cybersecurity research
 
 ---
 
 ## 🔬 **Core Research Areas**
 
-### **1. Neuromorphic Computing & Brain-Inspired AI**
-- **Astromorphic Transformers**: Astrocyte-neuron interactions in neural networks
-- **Bio-inspired Machine Learning**: Efficient long-context processing algorithms
-- **Spiking Neural Networks (SNNs)**: Algorithm-device co-design
-- **Lifelong Learning Systems**: Adaptive and fault-tolerant neural architectures
+### **1. Neuromorphic Computing & Brain-Inspired AI** 🧠
+- **Astromorphic Transformers**: First comprehensive incorporation of astrocytic characteristics in transformer self-attention mechanisms
+- **Bio-inspired Machine Learning**: RMAAT - efficient long-context sequence processing using biological attention mechanisms
+- **Spiking Neural Networks (SNNs)**: Algorithm-device co-design with hardware optimization (Loihi 2, Brainchip Akida)
+- **Neuromorphic Cybersecurity**: Lifelong learning systems for cybersecurity applications (ICONS 2025)
+- **Temporal Coding**: Event-driven sensing and compute architectures
 
-### **2. Machine Learning Hardware & AI Accelerators**
-- **In-Memory Computing**: Edge AI applications and architectures
-- **ML Accelerator Design**: Neuromorphic workload optimization
-- **Energy-Efficient AI Hardware**: Low-power computing solutions
-- **Hardware-Software Co-Design**: Integrated system optimization
+### **2. Machine Learning Hardware & AI Accelerators** ⚡
+- **In-Memory Computing (IMC)**: Edge AI applications with compute-in-memory architectures
+- **ML Accelerator Design**: Neuromorphic workload optimization and performance modeling
+- **Energy-Efficient AI Hardware**: Low-power computing solutions for edge deployment
+- **Hardware-Software Co-Design**: Integrated system optimization with predictive analysis frameworks
+- **AI for Semiconductor**: ML for process/device optimization, yield prediction, virtual metrology
 
-### **3. Emerging Devices & Semiconductor Technology**
-- **Ferroelectric Devices (FeFET)**: Neuromorphic applications
-- **Spintronics**: Non-volatile memory technologies
-- **Device-Circuit Co-Design**: Integrated design methodologies
-- **Advanced Process Integration**: Technology node development
+### **3. Emerging Devices & Semiconductor Technology** 🔬
+- **Ferroelectric Devices (FeFET)**: Multi-level conductance states for synaptic applications in SNNs
+- **Spintronic Devices**: MTJ fabrication, Hall effect characterization, non-volatile memory arrays
+- **Advanced Memory Technologies**: RRAM, PCM memristors, 2D materials integration
+- **Device-Circuit Co-Design**: Integrated design methodologies with TCAD simulation
+- **Process Integration**: FEOL/BEOL integration, 3D monolithic integration, DTCO
+
+### **4. Intel Internship Experience - Process Development** 🏭
+- **Thin Film Deposition**: Design of Experiments (DOE) for exploratory deposition projects
+- **Advanced Technology Nodes**: First-of-its-kind process integration tool evaluation
+- **Material Characterization**: DSIMS, XRR, stress analysis, TEM image analysis
+- **AI-Driven Process Optimization**: Predictive analysis frameworks for semiconductor manufacturing
+- **Process Window Optimization**: Integration feasibility assessment and validation
 
 ---
 
@@ -142,15 +162,21 @@
 
 ## 🌐 **Research Impact & Publications**
 
-### **Journal Publications**
-- **IEEE Transactions on Cognitive and Developmental Systems**: Astromorphic transformers
-- **Matter (Cell Press)**: Self-sensitizable neuromorphic devices
-- **arXiv**: Neuromorphic cybersecurity with lifelong learning
+### **Recent Journal Publications**
+- **IEEE Transactions on Cognitive and Developmental Systems** (2025): "Delving Deeper Into Astromorphic Transformers" - First comprehensive incorporation of astrocytic characteristics in neural networks
+- **Matter (Cell Press)** (2024): "Selfsensitizable neuromorphic device based on adaptive hydrogen gradient" - Collaborative work on adaptive neuromorphic devices
+- **OpenReview** (2024): "RMAAT: A Bio-Inspired Approach for Efficient Long-Context Sequence Processing in Transformers" - Bio-inspired attention mechanisms
 
-### **Conference Presentations**
-- **IEEE ISIEA**: International conference presentations
-- **ICECE**: Electrical and computer engineering
-- **iCACCESS**: Accessibility technology innovations
+### **Conference Presentations & Acceptances**
+- **ICONS 2025**: "Neuromorphic Cybersecurity with Lifelong Learning" - Neuromorphic approaches for cybersecurity
+- **IEEE ISIEA** (2022): "Study of 3-nm Cylindrical GAAFETs with Variations in High-k Dielectric Gate-oxide Materials"
+- **ICECE** (2024): International Conference on Electrical and Computer Engineering presentation
+- **iCACCESS** (2024): "Ultra Low Cost, Low Power, High Speed Electronic Braille Device for Visually Impaired People"
+
+### **Research Collaborations**
+- **University of Glasgow, UK**: Solar-hydro hybrid renewable system development
+- **Matter Journal Collaboration**: International research on neuromorphic devices
+- **Penn State Neuromorphic Computing Lab**: Lead researcher on multiple projects
 
 ---
 

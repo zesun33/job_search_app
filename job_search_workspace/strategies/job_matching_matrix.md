@@ -6,23 +6,33 @@
 
 ### **1. Device Engineering Roles** ⭐⭐⭐⭐⭐ (Perfect Match)
 
-#### **Semiconductor Device Engineer**
-- **Skills Utilized**: FeFET research, spintronics, device physics, TCAD simulation
-- **Experience**: PhD research in emerging semiconductor devices
-- **Tools**: TCAD Sentaurus, COMSOL, device characterization equipment
+#### **Semiconductor Device Engineer** 🔬
+- **Skills Utilized**: FeFET research, spintronics, device physics, TCAD simulation, Intel process experience
+- **Experience**: PhD research + Intel internship in thin film deposition and advanced technology nodes
+- **Tools**: TCAD Sentaurus, COMSOL, DSIMS, XRR, stress analysis, TEM, comprehensive characterization
 - **Companies**: Intel, GlobalFoundries, TSMC, Samsung, Micron
+- **Key Advantage**: Real-world Intel manufacturing experience with DOE and process optimization
 
-#### **Memory Device Engineer**
-- **Skills Utilized**: Non-volatile memory, spintronics, device characterization
-- **Experience**: Research in emerging memory technologies
-- **Tools**: Probe stations, electrical characterization, material analysis
-- **Companies**: Micron, Samsung, SK Hynix, Western Digital
+#### **Memory Device Engineer** 💾
+- **Skills Utilized**: Spintronic memory arrays, MTJ fabrication, Hall effect characterization, FeFET devices
+- **Experience**: Lead researcher on spintronic device-based memory (2022-Present)
+- **Tools**: SemiProbe Magnetic Probing System, AFM/FM multilayer fabrication, e-beam lithography
+- **Companies**: Micron, Samsung, SK Hynix, Western Digital, Intel
+- **Key Advantage**: Hands-on fabrication and comprehensive characterization of memory devices
 
-#### **Neuromorphic Device Engineer**
-- **Skills Utilized**: Brain-inspired computing, FeFET, adaptive devices
-- **Experience**: PhD focus on neuromorphic computing hardware
-- **Tools**: Custom device design, characterization, simulation
-- **Companies**: Intel Labs, IBM Research, BrainChip, startups
+#### **Neuromorphic Device Engineer** 🧠
+- **Skills Utilized**: Astromorphic transformers, FeFET synaptic devices, spintronic neural networks
+- **Experience**: World's first astromorphic transformer development, IEEE TCDS publication
+- **Tools**: Custom neuromorphic device design, hardware-in-the-loop testing, bio-inspired systems
+- **Companies**: Intel Labs, IBM Research, BrainChip, neuromorphic startups
+- **Key Advantage**: Revolutionary contributions to neuromorphic computing with published breakthroughs
+
+#### **Process Integration Engineer** 🏭
+- **Skills Utilized**: Intel thin film process development, DOE, material characterization, AI-driven optimization
+- **Experience**: Intel Graduate Technical Intern with first-of-its-kind process integration tools
+- **Tools**: DSIMS, XRR, stress analysis, TEM, process window optimization, predictive analysis
+- **Companies**: Intel, GlobalFoundries, TSMC, Samsung Foundry, Applied Materials
+- **Key Advantage**: Direct Intel experience in advanced technology node development
 
 ---
 
@@ -72,23 +82,33 @@
 
 ### **4. Research & Development** ⭐⭐⭐⭐⭐ (Perfect Match)
 
-#### **R&D Engineer - Emerging Technologies**
-- **Skills Utilized**: Neuromorphic computing, emerging devices, research
-- **Experience**: PhD research, publications, conference presentations
-- **Tools**: Research methodologies, simulation, characterization
-- **Companies**: Intel Labs, IBM Research, Microsoft Research, universities
+#### **Neuromorphic Research Engineer** 🧠
+- **Skills Utilized**: World's first astromorphic transformers, neuromorphic cybersecurity, bio-inspired AI
+- **Experience**: Revolutionary IEEE TCDS publication, ICONS 2025 acceptance, lead researcher role
+- **Tools**: Neuromorphic simulation, hardware prototyping, bio-inspired algorithm development
+- **Companies**: Intel Labs, IBM Research, BrainChip, neuromorphic AI startups
+- **Key Advantage**: Pioneer in astromorphic computing with breakthrough publications
 
-#### **AI Hardware Research Engineer**
-- **Skills Utilized**: ML hardware, neuromorphic computing, AI accelerators
-- **Experience**: Research in brain-inspired computing architectures
-- **Tools**: AI frameworks, hardware simulation, optimization
-- **Companies**: Google, Meta, Amazon, AI hardware startups
+#### **AI Hardware Research Engineer** ⚡
+- **Skills Utilized**: ML hardware co-design, neuromorphic computing, AI accelerator optimization
+- **Experience**: Astromorphic transformer development, hardware-software co-design expertise
+- **Tools**: PyTorch, TensorFlow, neuromorphic hardware (Loihi 2, Akida), custom AI accelerators
+- **Companies**: Google, Meta, NVIDIA, OpenAI, AI hardware startups
+- **Key Advantage**: Unique combination of AI algorithm innovation and hardware expertise
 
-#### **Semiconductor Research Engineer**
-- **Skills Utilized**: Device physics, process technology, characterization
-- **Experience**: Advanced semiconductor research
-- **Tools**: Research equipment, simulation, analysis
-- **Companies**: Research institutions, corporate R&D labs
+#### **Semiconductor Research Engineer** 🔬
+- **Skills Utilized**: Emerging device physics, process technology, Intel manufacturing experience
+- **Experience**: PhD research + Intel internship, spintronic/ferroelectric device expertise
+- **Tools**: TCAD simulation, advanced characterization, process development
+- **Companies**: Intel Labs, IBM Research, Samsung Advanced Institute, TSMC Research
+- **Key Advantage**: Bridge between academic research and industrial manufacturing
+
+#### **AI for Manufacturing Research** 🏭
+- **Skills Utilized**: AI-driven process optimization, predictive modeling, virtual metrology
+- **Experience**: Intel internship developing ML models for semiconductor manufacturing
+- **Tools**: Machine learning frameworks, statistical analysis, process optimization
+- **Companies**: Applied Materials, KLA, Lam Research, semiconductor manufacturers
+- **Key Advantage**: Real-world experience applying AI to semiconductor manufacturing
 
 ---
 
