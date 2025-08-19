@@ -3,14 +3,14 @@
 ## 📊 **Application Summary Dashboard**
 
 ### **Overall Statistics**
-- **Total Applications**: 0
-- **Applications This Month**: 0
-- **Applications This Week**: 0
+- **Total Applications**: 2
+- **Applications This Month**: 2
+- **Applications This Week**: 2
 - **Interviews Scheduled**: 0
 - **Job Offers**: 0
 
 ### **Success Metrics**
-- **Application to Interview Rate**: 0%
+- **Application to Interview Rate**: 0% (0/2)
 - **Interview to Offer Rate**: 0%
 - **Overall Success Rate**: 0%
 
@@ -18,18 +18,31 @@
 
 ## 🎯 **Application Tracking Template**
 
-### **Application #1**
-- **Company**: [Company Name]
-- **Position**: [Job Title]
-- **Location**: [City, State/Country]
-- **Date Applied**: [MM/DD/YYYY]
-- **Application Method**: [Career Portal/LinkedIn/Referral]
-- **Job ID/Reference**: [Job ID or Reference Number]
-- **Status**: [Applied/Under Review/Interview Scheduled/Rejected/Offer]
-- **Follow-up Date**: [MM/DD/YYYY]
-- **Follow-up Method**: [Email/Phone/LinkedIn]
-- **Notes**: [Key details, requirements, company info]
-- **Next Action**: [What to do next]
+### **Application #1 - GlobalFoundries**
+- **Company**: GlobalFoundries
+- **Position**: 3D Advanced Heterogeneous Integration Development Intern (Summer 2026)
+- **Location**: Malta, NY
+- **Date Applied**: [ENTER DATE]
+- **Application Method**: Career Portal (via Workday)
+- **Job ID/Reference**: JR-2502799
+- **Status**: 🟢 Applied
+- **Follow-up Date**: [1 week from application date]
+- **Follow-up Method**: Email/LinkedIn
+- **Notes**: Advanced integration focus, matches device engineering expertise. Applied via Simplify referral link.
+- **Next Action**: Follow up with hiring manager, research team members on LinkedIn
+
+### **Application #2 - Samsung**
+- **Company**: Samsung
+- **Position**: 2026 Summer Internship
+- **Location**: Austin, TX (12100 Samsung Blvd)
+- **Date Applied**: [ENTER DATE]
+- **Application Method**: Career Portal (via Workday)
+- **Job ID/Reference**: R107280
+- **Status**: 🟢 Applied
+- **Follow-up Date**: [1 week from application date]
+- **Follow-up Method**: Email/LinkedIn
+- **Notes**: Summer 2026 internship at Samsung's main US semiconductor facility in Austin. Strong memory/device focus.
+- **Next Action**: Follow up with hiring manager, research Samsung Austin team members
 
 ---
 
@@ -90,10 +103,11 @@
 ## 🏢 **Company-Specific Tracking**
 
 ### **GlobalFoundries**
-- **Applications**: 0
+- **Applications**: 1
 - **Interviews**: 0
-- **Status**: Primary target
-- **Next Action**: Check portal daily for 2026 positions
+- **Status**: Primary target - APPLICATION SUBMITTED ✅
+- **Position Applied**: 3D Advanced Heterogeneous Integration Development Intern (Summer 2026)
+- **Next Action**: Follow up in 1 week, continue checking portal for additional 2026 positions
 
 ### **Intel**
 - **Applications**: 0
@@ -102,10 +116,11 @@
 - **Next Action**: Leverage internship experience
 
 ### **Samsung**
-- **Applications**: 0
+- **Applications**: 1
 - **Interviews**: 0
-- **Status**: Strong contender
-- **Next Action**: Research device engineering opportunities
+- **Status**: Strong contender - APPLICATION SUBMITTED ✅
+- **Position Applied**: 2026 Summer Internship (Austin, TX)
+- **Next Action**: Follow up in 1 week, research additional Samsung opportunities
 
 ### **TSMC**
 - **Applications**: 0
@@ -190,8 +205,10 @@
 ## 🚨 **Action Items & Reminders**
 
 ### **This Week**
-- [ ] Apply to GlobalFoundries Software Engineering Intern (Summer 2026)
+- [x] Apply to GlobalFoundries 3D Advanced Heterogeneous Integration Development Intern (Summer 2026) ✅
 - [ ] Check GlobalFoundries portal daily for new positions
+- [ ] Follow up on GlobalFoundries application after 1 week
+- [x] Complete details for Samsung 2026 Summer Internship application ✅
 - [ ] Update resume for different position types
 - [ ] Set up job alerts on major platforms
 
